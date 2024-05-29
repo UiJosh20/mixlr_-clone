@@ -1,8 +1,0 @@
-.w75{
-    width: 100%;
-}
-@media screen and (max-width: 480px) {
-    .w75{
-        width: 75% !important;
-    }
-}
